@@ -1,4 +1,4 @@
-# Processo Seletivo Vagas - Engenheiro de Software
+# Processo Seletivo Vagas - Engenheiro(a) de Software
 
 ## Recrutando candidatos
 
