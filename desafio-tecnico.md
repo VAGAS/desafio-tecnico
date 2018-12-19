@@ -27,11 +27,11 @@ Considerações gerais:
 
 O *score* do candidato é dado pela seguinte fórmula:
 
-$SCORE = \dfrac{N + D}{2}$
+[vagascom SCORE]{http://latex.codecogs.com/gif.latex?SCORE%20%3D%20%5Cdfrac%7BN%20&plus;%20D%7D%7B2%7D}
 
 *N* é definido por:
 
-$N =  100 - 25 \times |NV - NC|$
+[vagascom N]{http://latex.codecogs.com/gif.latex?N%20%3D%20100%20-%2025%20%5Ctimes%20%7CNV%20-%20NC%7C}
 
 onde:
 
