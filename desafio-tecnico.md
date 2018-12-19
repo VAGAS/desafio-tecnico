@@ -27,11 +27,11 @@ Considerações gerais:
 
 O *score* do candidato é dado pela seguinte fórmula:
 
-$ SCORE = \dfrac{N + D}{2} $
+$SCORE = \dfrac{N + D}{2}$
 
 *N* é definido por:
 
-$ N =  100 - 25 \times |NV - NC| $
+$N =  100 - 25 \times |NV - NC|$
 
 onde:
 
