@@ -22,31 +22,21 @@ Considerações gerais:
 
 * ***Score* do candidato**: cada candidato deverá receber um *score* para cada candidatura que realizar. Esse *score* é definido com base no nível de experiência e localização em relação a vaga a qual se candidatou.
 
- 
 
 ##### Cálculo do *score* do candidato
 
 O *score* do candidato é dado pela seguinte fórmula:
 
-
-
-$$
-SCORE = \dfrac{N + D}{2}
-$$
-
-
+$ SCORE = \dfrac{N + D}{2} $
 
 *N* é definido por:
-$$
-N =  100 - 25 \times |NV - NC|
-$$
+
+$ N =  100 - 25 \times |NV - NC| $
 
 onde:
 
 * *NV* é o nível de experiência esperado para a vaga 
 * *NC* é o nível de experiência do candidato
-
-
 
 Para definir o valor de *D*,  encontre a **menor distância entre o candidato e a vaga** e utilize este valor para consultar a tabela a seguir:
 
@@ -63,8 +53,6 @@ Para definir o valor de *D*,  encontre a **menor distância entre o candidato e 
 Considere somente a parte inteira do *score*.
 
 **Não utilize bibliotecas para a realização do cálculo da distância**. 
-
-
 
 
 #### Endpoints
