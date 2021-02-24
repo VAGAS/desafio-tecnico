@@ -134,16 +134,15 @@ O response para esta função será definido por você e **faz parte da avaliaç
         "profissao": "Engenheira de Software",
         "localizacao": "A",
         "nivel": 4,
-        "score": 100
+        "score": 87
 	},
     {
         "nome": "John Doe",
         "profissao": "Engenheiro de Software",
         "localizacao": "C",
         "nivel": 2,
-        "score": 85
+        "score": 62
 	},
     ...
 ]
 ```
-
